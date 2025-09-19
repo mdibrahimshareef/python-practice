@@ -1,7 +1,7 @@
 # Python Practice 🚀
 
 Welcome to my **Python Practice** repository!  
-This is a daily learning journal where I practice and improve my Python skills through solving problems, writing programs, and building logic step by step.
+This is a learning journal where I practice and improve my Python skills through solving problems, writing programs, and building logic step by step.
 
 ## 📚 What you'll find here
 
